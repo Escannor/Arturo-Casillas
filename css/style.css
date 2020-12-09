@@ -156,7 +156,7 @@ SECTION WRAPS
 /* Header Wrap */
 
 #headerwrap {
-  background: url(../img/cna.jpg) no-repeat center top; /*../img/header-art.jpg*/
+  background: #2f2f2f;/*url(../img/cna.jpg) no-repeat center top; /*../img/header-art.jpg*/
   margin-top: 60px;
   padding-top: 140px;
   text-align: center;

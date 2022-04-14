@@ -157,12 +157,12 @@ SECTION WRAPS
 
 #headerwrap {
   background: #2f2f2f;/*url(../img/cna.jpg) no-repeat center top; /*../img/header-art.jpg*/
-  margin-top: 60px;
+  margin-top: 40px;
   padding-top: 140px;
   text-align: center;
   background-attachment: relative;
   background-position: center center;
-  min-height: 500px;
+  min-height: 400px;
   width: 100%;
   -webkit-background-size: 100%;
   -moz-background-size: 100%;
@@ -213,6 +213,23 @@ SECTION WRAPS
 
 #skillswrap h5, p {
   color: white;
+}
+
+#skillswrap skill {
+  color: #e4e4e4;
+  text-align: center;
+  background-color: gray; /* Changing background color */
+  font-family: "Lato";
+  /* font-weight: bold; /* Making font bold */
+  border-radius: 20px; /* Making border radius */
+  width: auto; /* Making auto-sizable width */
+  height: auto; /* Making auto-sizable height */
+  padding: 1px 25px 1px 25px; /* Making space around letters */
+  font-size: 18px; /* Changing font size */
+  margin-top: 10px;
+  margin-bottom: 10px;
+  overflow-wrap: anywhere;
+  text-align: center;
 }
 
 #footwrap {

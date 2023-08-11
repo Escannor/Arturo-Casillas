@@ -9,7 +9,7 @@ body {
   background-color: #f2f2f2;
   font-family: "Lato";
   font-weight: 300;
-  font-size: 16px;
+  font-size: 18px;
   color: #555;
   -webkit-font-smoothing: antialiased;
   -webkit-overflow-scrolling: touch;
@@ -26,7 +26,7 @@ h1, h2, h3, h4, h5, h6 {
 /* Paragraph & Typographic */
 
 p {
-  line-height: 28px;
+  line-height: 32px;
   margin-bottom: 25px;
 }
 
@@ -197,9 +197,13 @@ SECTION WRAPS
   color: white;
 }
 
+.h5, h5 {
+  font-size: 20px;
+}
+
 #intro i {
   color: white;
-  font-size: 20px;
+  font-size: 22px;
   padding-right: 8px;
   vertical-align: middle;
 }
@@ -225,7 +229,7 @@ SECTION WRAPS
   width: auto; /* Making auto-sizable width */
   height: auto; /* Making auto-sizable height */
   padding: 1px 25px 1px 25px; /* Making space around letters */
-  font-size: 18px; /* Changing font size */
+  font-size: 19px; /* Changing font size */
   margin-top: 10px;
   margin-bottom: 10px;
   overflow-wrap: anywhere;
@@ -262,7 +266,7 @@ SECTION WRAPS
   padding: 20px 0;
   text-align: center;
   color: #fff;
-  font-size: 16px;
+  font-size: 18px;
 }
 
 #copyrights p {
@@ -299,7 +303,7 @@ SECTION WRAPS
 }
 
 sm {
-  font-size: 12px;
+  font-size: 15px;
 }
 
 /* Contact Form */
